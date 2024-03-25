@@ -1,0 +1,315 @@
+@media screen and (max-width:900px) {
+    .section1 {
+        height: 110vh;
+        width: 100%;
+    }
+
+    .section2 {
+        height: 76vh;
+        width: 100%;
+    }
+
+    .subpart1 {
+        width: 81%;
+        height: 99.9%;
+        background-color: #296EB3;
+        position: absolute;
+        top: -9.4vh;
+
+    }
+
+    .subpart1 h1 {
+        font-size: 7.2vw;
+
+    }
+
+    .subpart2 {
+        width: 71%;
+        height: 58.15%;
+        background: rgb(2, 239, 247);
+
+    }
+
+    .subpart2 h2 {
+        font-size: 4.2vw;
+        font-weight: 400;
+        color: #ffffff;
+        padding-right: 1vw;
+    }
+
+    #take {
+        font-weight: 600;
+    }
+
+    .row1_3 p {
+        font-size: 2vw;
+    }
+
+    .row2_1 p {
+        font-size: 3.4vw;
+    }
+
+    .first img {
+        width: 70%;
+        height: 70%;
+    }
+
+    .first p {
+        font-size: 1.5vw;
+    }
+
+    .hr2 {
+        width: 10.5vw;
+    }
+
+    #contact {
+        font-size: 2.4vw;
+    }
+
+    .row3_1 {
+        height: 55%;
+        width: 46%;
+        box-sizing: border-box;
+        padding-top: 4vh;
+        margin-left: -2vw;
+    }
+
+    .row3_1 p {
+        font-size: 1.9vw;
+    }
+
+    .row3_21 p {
+        font-size: 2.4vw;
+    }
+
+    .col2_row1 {
+        height: 38%;
+        width: 100%;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        padding-top: 8%;
+    }
+
+    .row3_22 img {
+        width: 90%;
+        height: 80%;
+        padding-bottom: 1vh
+    }
+
+    .box_img {
+        width: 70%;
+        height: 99%;
+    }
+
+    .col2_row2 p {
+        font-size: 4vw;
+    }
+
+    .services {
+        height: 80%;
+        width: 88.5%;
+        padding-top: 3vh;
+        left: 9vw;
+        width: 85.5%;
+
+    }
+
+    .service p {
+        font-size: 1.5vw;
+        color: #ffffff;
+    }
+
+    .col2_row3 {
+        left: 5vw;
+    }
+
+    .scaner {
+        width: 30%;
+        margin-top: 27vh;
+        height: 30%;
+    }
+}
+
+
+
+
+@media screen and (max-width:650px) {
+  
+    .part1 img {
+        border-bottom-left-radius: 5.5vh;
+        border-bottom-right-radius: 5.5vh;
+    }
+   
+    .heading h1{
+        font-size: 2.5vw;
+    }
+    .section1 {
+        height: 59.5vh;
+        width: 100%;
+    }
+
+    .section2 {
+        height: 40.5vh;
+        width: 100%;
+    }
+
+    .subpart1 {
+        width: 81%;
+        height: 100%;
+        background-color: #296EB3;
+        position: absolute;
+        top: -5.8vh;
+        border-top-left-radius: 3.5vh;
+        border-bottom-right-radius: 3.5vh;
+
+
+    }
+
+    .subpart1 h1 {
+        font-size: 7.2vw;
+
+    }
+
+    .subpart2 {
+        width: 71%;
+        height: 66.15%;
+        background: rgb(2, 239, 247);
+        top: 2.88vh;
+    }
+
+    .subpart2 h2 {
+        font-size: 4.2vw;
+        font-weight: 400;
+        color: #ffffff;
+        padding-right: 1vw;
+    }
+
+    #take {
+        font-weight: 600;
+    }
+
+    .row1_3 {
+        justify-content: start;
+    }
+
+    #hr1 {
+        margin-top: 1.5vh;
+    }
+
+    .row1_3 p {
+        font-size: 1.6vw;
+    }
+
+    .row2_1 {
+        padding-top: 0;
+    }
+/*  */
+    .row2_1 p {
+        font-size: 3.4vw;
+    }
+    .row2_2 {
+        padding-top: 0;
+    }
+    .first img {
+        width: 70%;
+        height: 60%;
+    }
+
+    .first p {
+        font-size: 1.35vw;
+    }
+
+    .hr2 {
+        width: 9.5vw;
+    }
+    .col1_row3{
+        height: 27%;
+    }
+    #contact {
+        font-size: 2.1vw;
+    }
+
+    .row3_1 {
+        height: 45%;
+        width: 46%;
+        box-sizing: border-box;
+        padding-top:0.4vh;
+        margin-left: -2vw;
+    }
+
+    .row3_1 p {
+        font-size: 1.9vw;
+    }
+
+    .row3_2 {
+        padding-top: 1vh;
+        height: 50%;
+        box-sizing: border-box;
+    }
+    .row3_21 p {
+        font-size: 1.7vw;
+    }
+    .row3_22 {
+        width: 50%
+    }
+
+    /*  */
+    .col2_row1 {
+        height: 38%;
+        width: 100%;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        padding-top: 8%;
+    }
+
+    .row3_22 img {
+        width: 90%;
+        height: 80%;
+        padding-bottom: 1vh
+    }
+
+    .box_img {
+        width: 70%;
+        height: 99%;
+    }
+    .col2_row2{
+        border-top-left-radius: 2.8vh;
+    }
+    .col2_row2 p {
+        font-size: 4vw;
+    }
+
+    .services {
+        height: 80%;
+        width: 88.5%;
+        padding-top: 0vh;
+        left: 9vw;
+        width: 85.5%;
+
+    }
+    .service{
+        margin-top: 0;
+    }
+    .service p {
+        font-size: 1.7vw;
+        color: #ffffff;
+    }
+
+    .col2_row3 {
+        left: 5vw;
+    }
+
+    .scaner {
+        width: 30%;
+        height: 30%;
+        margin-top: 14.3vh;
+        border-top-left-radius: 1.2vh;
+    }
+    .scaner img{
+        width: 80%;
+        height: 80%;
+        
+    }
+}
